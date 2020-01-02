@@ -1,1 +1,1 @@
-In this app,basically we are fetching data using Retrofit and Paging. We are using Paging to load the data in chunks.Retrofit is basically used for fetching data. 
+This is an app where users of stackoverflow are shown. In this app, silver badges,gold badges,bronze badges,his reputation,his image and accept rate are shown.Data required by app is fetched using Retrofit framework from the StackOverFlow's API.
